@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "name": "Python Programming",
+    "title": "Mastering Python Programming",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.YwQRIPNmc-nF-WYWQ0-NbAHaLG?w=204&h=306&c=7&r=0&o=5&cb=thvnextc1&dpr=1.3&pid=1.7",
+    "description": "Python is more than just a programming language—it's your gateway to building powerful applications, automating tedious tasks, and solving real-world problems.<br><br>This book offers a structured path from Python fundamentals to advanced concepts, with hands-on projects like building a web scraper, analyzing real-time data, and automating everyday processes.<br><br><strong>Helpful Resources:</strong><br><a href='https://docs.python.org/3/' target='_blank'style='color:blue;'>🔹 Official Python Documentation</a><br><a href='https://www.w3schools.com/python/' target='_blank'style='color:blue;'>🔹 W3Schools Python Tutorial</a><br><a href='https://realpython.com/' target='_blank'style='color:blue;'>🔹 Real Python – Tutorials and Tips</a><br><a href='https://www.youtube.com/watch?v=rfscVS0vtbw' target='_blank'style='color:blue;'>🔹 FreeCodeCamp's Python Course (YouTube)</a><br><a href='https://www.geeksforgeeks.org/python-programming-language/' target='_blank'style='color:blue;'>🔹 GeeksforGeeks Python Basics</a><br><br>Start your Python journey today—and discover how one language can unlock endless possibilities."
+
+  },
+  {
+    "id": 2,
+    "name": "Data Structures in C",
+    "title": "Data Structures Decoded",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.DhpSB_TrImWu-HmId3-70AHaLJ?w=203&h=306&c=7&r=0&o=7&cb=thvnextc1&dpr=1.3&pid=1.7&rm=3",
+    "description": "Mastering data structures is the key to writing efficient, optimized, and scalable programs in C. This book introduces fundamental concepts like arrays, linked lists, stacks, queues, trees, and graphs—using clear explanations and practical examples. You’ll explore how memory management and pointers work behind the scenes, enabling you to build real-world solutions with confidence.<br><br>Whether you’re a beginner in C programming or preparing for technical interviews, this book lays a solid foundation by combining theory with implementation-focused exercises. From sorting algorithms to tree traversals and hash tables, every chapter guides you step-by-step to help you learn how data is stored, accessed, and manipulated.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.geeksforgeeks.org/data-structures/' target='_blank'style='color:blue;'>🔹 GeeksforGeeks – Data Structures in C</a><br><a href='https://www.programiz.com/dsa' target='_blank'style='color:blue;'>🔹 Programiz – Data Structures & Algorithms</a><br><a href='https://www.coursera.org/learn/data-structures-c' target='_blank'style='color:blue;'>🔹 Coursera – Data Structures in C</a><br><a href='https://www.tutorialspoint.com/data_structures_algorithms/index.htm' target='_blank'style='color:blue;'>🔹 TutorialsPoint – Data Structures</a><br><a href='https://www.javatpoint.com/data-structure-tutorial' target='_blank'style='color:blue;'>🔹 JavaTpoint – DS Tutorial</a><br><br>Start building smarter programs today by mastering how data is organized and manipulated at the core level!"
+
+  },
+  {
+    "id": 3,
+    "name": "Operating Systems",
+    "title": "Operating System Odyssey",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.xF58Fz3oJYKCUJRiFL9uWAAAAA?w=201&h=310&c=7&r=0&o=5&cb=thvnextc1&dpr=1.3&pid=1.7",
+    "description": "An Operating System (OS) is the backbone of every computing device—it manages hardware, runs applications, and enables user interaction. This book demystifies complex OS concepts like process management, memory allocation, file systems, and CPU scheduling with real-world analogies and C-based examples. It’s a must-have for computer science students and system-level programmers.<br><br>Each chapter walks you through essential topics such as multitasking, synchronization, deadlock handling, paging, and virtual memory. Whether you're learning for your academics or preparing for technical interviews, this book helps you build a strong foundational understanding of how modern operating systems work.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.geeksforgeeks.org/operating-systems/' target='_blank'style='color:blue;'>🔹 GeeksforGeeks – Operating Systems</a><br><a href='https://www.tutorialspoint.com/operating_system/index.htm' target='_blank'style='color:blue;'>🔹 TutorialsPoint – OS Concepts</a><br><a href='https://www.javatpoint.com/operating-system-tutorial' target='_blank'style='color:blue;'>🔹 JavaTpoint – OS Tutorial</a><br><a href='https://www.coursera.org/learn/os-power-user' target='_blank'style='color:blue;'>🔹 Coursera – Operating Systems (University of Colorado)</a><br><a href='https://cs-video-stream.github.io/' target='_blank'style='color:blue;'>🔹 MIT & CMU Video Lectures on Operating Systems</a><br><br>Unlock the core of computing by mastering how operating systems work beneath the surface."
+
+  },
+  {
+    "id": 4,
+    "name": "Computer Networks",
+    "title": "The Network Navigator",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.lT_SGUKt0uOCTYMTRZgt_gHaJ-?w=204&h=275&c=7&r=0&o=7&cb=thvnextc1&dpr=1.3&pid=1.7&rm=3",
+    "description": "In today’s connected world, understanding Computer Networks is essential for anyone working in technology. This book explains the fundamentals of networking—from the OSI and TCP/IP models to protocols like HTTP, FTP, DNS, and IP addressing—using clear diagrams and real-world use cases. You’ll learn how data moves through routers, switches, and servers across the internet and local networks.<br><br>Covering core concepts such as packet switching, subnetting, firewalls, network security, wireless communication, and client-server architecture, this book provides a complete guide for students, IT professionals, and developers alike. It's designed to build strong conceptual knowledge and practical skills for real-world networking problems.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.geeksforgeeks.org/computer-network-tutorials/' target='_blank' style='color:blue;'>🔹 GeeksforGeeks – Computer Networks</a><br><a href='https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm' target='_blank'style='color:blue;'>🔹 TutorialsPoint – Networking Basics</a><br><a href='https://www.javatpoint.com/computer-network-tutorial' target='_blank'style='color:blue;'>🔹 JavaTpoint – CN Tutorial</a><br><a href='https://nptel.ac.in/courses/106105183' target='_blank'style='color:blue;'>🔹 NPTEL – Computer Networks by IIT Kharagpur</a><br><a href='https://www.coursera.org/learn/computer-networking' target='_blank'style='color:blue;'>🔹 Coursera – Computer Networks by Georgia Tech</a><br><br>Start your journey into the digital backbone of the modern world—master computer networks today!"
+
+  },
+  {
+    "id": 5,
+    "name": "Artificial Intelligence",
+    "title": "AI: The Intelligent Frontier",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.EENLpEL-NR2sQUNQeL6BgAHaLH?w=204&h=306&c=7&r=0&o=7&cb=thvnextc1&dpr=1.3&pid=1.7&rm=3",
+    "description": "Artificial Intelligence (AI) is revolutionizing the way we interact with machines—enabling systems to learn, reason, and solve problems just like humans. This book takes you through the exciting landscape of AI, from the basics of intelligent agents and search algorithms to machine learning, natural language processing, and neural networks. It's perfect for students, developers, and AI enthusiasts looking to understand both the theory and the practice of AI.<br><br>Through real-world examples and hands-on projects, you'll explore key AI concepts such as knowledge representation, decision making, reinforcement learning, and computer vision. Whether you're building a chatbot, training a model, or diving into ethical implications, this book lays the foundation for a future-ready AI skillset.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.geeksforgeeks.org/artificial-intelligence/' target='_blank'style='color:blue;'>🔹 GeeksforGeeks – Artificial Intelligence</a><br><a href='https://www.tutorialspoint.com/artificial_intelligence/index.htm' target='_blank'style='color:blue;'>🔹 TutorialsPoint – AI Tutorial</a><br><a href='https://www.javatpoint.com/artificial-intelligence-tutorial' target='_blank'style='color:blue;'>🔹 JavaTpoint – AI Concepts</a><br><a href='https://nptel.ac.in/courses/106105077' target='_blank'style='color:blue;'>🔹 NPTEL – AI by IIT Madras</a><br><a href='https://www.coursera.org/learn/introduction-to-ai' target='_blank'style='color:blue;'>🔹 Coursera – Introduction to AI by IBM</a><br><br>Step into the world of intelligent systems and discover how AI is shaping the future—one algorithm at a time."
+
+  },
+  {
+    "id": 6,
+    "name": "Machine Learning",
+    "title": "Machine Learning Demystified",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.nwXrJuyVT9ZIeq10-cFU7QAAAA?w=204&h=306&c=7&r=0&o=7&cb=thvnextc1&dpr=1.3&pid=1.7&rm=3",
+    "description": "Machine Learning (ML) is at the heart of modern technology—powering everything from recommendation engines and fraud detection to language translation and autonomous vehicles. This book offers a hands-on journey into the world of ML, covering essential concepts like supervised and unsupervised learning, classification, regression, clustering, and model evaluation.<br><br>You'll explore real-world projects using popular tools like Python, Scikit-learn, and TensorFlow. Whether you're training a decision tree, fine-tuning a neural network, or interpreting results with confusion matrices, this book builds both your theoretical understanding and practical implementation skills.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.geeksforgeeks.org/machine-learning/' target='_blank' style='color:blue;'>🔹 GeeksforGeeks – Machine Learning Guide</a><br><a href='https://www.tutorialspoint.com/machine_learning_with_python/index.htm' target='_blank' style='color:blue;'>🔹 TutorialsPoint – ML with Python</a><br><a href='https://scikit-learn.org/stable/' target='_blank' style='color:blue;'>🔹 Scikit-learn Documentation</a><br><a href='https://www.coursera.org/learn/machine-learning' target='_blank' style='color:blue;'>🔹 Coursera – Machine Learning by Andrew Ng</a><br><a href='https://developers.google.com/machine-learning/crash-course' target='_blank' style='color:blue;'>🔹 Google ML Crash Course</a><br><br>Unlock the potential of data and algorithms—this book is your gateway to mastering the field that’s shaping the future."
+
+  },
+  {
+    "id": 7,
+    "name": "Cybersecurity Essentials",
+    "title": "The Cybersecurity Vault",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.dZE-cT2uznfsP1FA9XES9AHaJl?w=204&h=265&c=7&r=0&o=7&cb=thvnextc1&dpr=1.3&pid=1.7&rm=3",
+    "description": "In today's digital era, Cybersecurity is no longer optional—it's essential. From personal devices to corporate networks, the need to protect sensitive data and systems from malicious attacks is more critical than ever. This book introduces key concepts in cybersecurity, such as encryption, firewalls, ethical hacking, network security, threat modeling, and incident response.<br><br>You'll explore real-world security threats, learn how to recognize vulnerabilities, and gain hands-on skills in securing applications and networks. Whether you're a beginner or an aspiring ethical hacker, this guide helps you build a strong foundation in protecting digital assets.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.geeksforgeeks.org/cyber-security/' target='_blank' style='color:blue;'>🔹 GeeksforGeeks – Cyber Security</a><br><a href='https://www.coursera.org/specializations/intro-cyber-security' target='_blank' style='color:blue;'>🔹 Coursera – Introduction to Cyber Security</a><br><a href='https://www.cybrary.it/' target='_blank' style='color:blue;'>🔹 Cybrary – Free Cybersecurity Courses</a><br><a href='https://www.khanacademy.org/computing/computers-and-internet/xcae8f4e5f72ff6e7:online-data-security' target='_blank' style='color:blue;'>🔹 Khan Academy – Online Data Security</a><br><a href='https://www.ibm.com/topics/cybersecurity' target='_blank' style='color:blue;'>🔹 IBM – Cybersecurity Explained</a><br><br>Defend your digital world—this book is your first step toward becoming cyber-aware and cyber-smart."
+
+  },
+  {
+    "id": 8,
+    "name": "Database Systems",
+    "title": "Database Design Essentials",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.5HLsGPk93YrW93bgPXJP1gAAAA?w=204&h=255&c=7&r=0&o=5&cb=thvnextc1&dpr=1.3&pid=1.7",
+    "description": "Databases are the backbone of modern applications, powering everything from e-commerce platforms to social media and enterprise software. Understanding how data is stored, managed, and queried is essential for every developer and data professional. This book guides you through the core concepts of database systems—including relational models, normalization, SQL, transactions, indexing, and data integrity.<br><br>You'll gain practical skills by working with real-world databases, writing complex SQL queries, designing efficient schemas, and understanding how systems like MySQL, PostgreSQL, and MongoDB work behind the scenes.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.w3schools.com/sql/' target='_blank' style='color:blue;'>🔹 W3Schools – SQL Tutorial</a><br><a href='https://www.geeksforgeeks.org/dbms/' target='_blank' style='color:blue;'>🔹 GeeksforGeeks – DBMS Concepts</a><br><a href='https://www.tutorialspoint.com/dbms/index.htm' target='_blank' style='color:blue;'>🔹 TutorialsPoint – DBMS Tutorial</a><br><a href='https://www.youtube.com/playlist?list=PLWPirh4EWFpE5sF7E9XrWmvk9nRXmiNNo' target='_blank' style='color:blue;'>🔹 YouTube – DBMS Full Course by Gate Smashers</a><br><a href='https://www.postgresql.org/docs/' target='_blank' style='color:blue;'>🔹 PostgreSQL – Official Documentation</a><br><br>Mastering database systems unlocks the ability to build data-driven apps, power analytics, and ensure your data is reliable and scalable."
+
+  },
+  {
+    "id": 9,
+    "name": "Full Stack Development",
+    "title": "The Full Stack Blueprint",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.KJGY5Iqc1kjwWoGRofm7wAAAAA?w=115&h=180&c=7&r=0&o=5&cb=thvnextc1&dpr=1.3&pid=1.7",
+    "description": "The MERN Stack—MongoDB, Express.js, React.js, and Node.js—is a powerful full-stack JavaScript solution for building dynamic, database-driven web applications. From designing RESTful APIs to creating modern, responsive user interfaces, this book walks you through each layer of the stack with real-world projects and hands-on coding examples.<br><br>Whether you're building a social network, e-commerce platform, or a personal portfolio, the MERN stack gives you end-to-end control using JavaScript across the frontend and backend. You'll learn how to connect the React frontend with a Node/Express backend and store your data in MongoDB using Mongoose.<br><br><strong>Helpful Resources:</strong><br><a href='https://www.mongodb.com/docs/' target='_blank' style='color:blue;'>🔹 MongoDB – Official Docs</a><br><a href='https://expressjs.com/' target='_blank' style='color:blue;'>🔹 Express.js – Official Website</a><br><a href='https://reactjs.org/docs/getting-started.html' target='_blank' style='color:blue;'>🔹 React – Official Documentation</a><br><a href='https://nodejs.org/en/docs' target='_blank' style='color:blue;'>🔹 Node.js – Official Docs</a><br><a href='https://www.freecodecamp.org/news/learn-the-mern-stack/' target='_blank' style='color:blue;'>🔹 FreeCodeCamp – Learn the MERN Stack</a><br><br>By the end of this book, you’ll have the skills to build, deploy, and maintain full-stack web applications using the most in-demand technologies of today."
+
+  },
+  
+  {
+    "id": 10,
+    "name": "Cloud Computing",
+    "title": "Cloud Essentials",
+    "price": 0,
+    "category": "Free",
+    "image": "https://th.bing.com/th/id/OIP.FZTuD9PAcMEKTEEjKxDppAHaJa?w=208&h=264&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "description": "Cloud Computing is transforming the way organizations deploy, manage, and scale their infrastructure and services. By leveraging on-demand computing resources over the internet, businesses gain flexibility, scalability, and cost-efficiency. This book covers the fundamentals of cloud computing, from deployment models (IaaS, PaaS, SaaS) to key providers like AWS, Azure, and Google Cloud.<br><br>Explore real-world cloud use cases including storage, databases, serverless computing, and container orchestration. Learn how cloud services power modern apps, enable global collaboration, and reduce operational burdens. Whether you're preparing for certifications or planning cloud migration strategies, this guide is your practical entry point.<br><br><strong>Helpful Resources:</strong><br><a href='https://aws.amazon.com/what-is-cloud-computing/' target='_blank' style='color:blue;'>🔹 AWS – What is Cloud Computing?</a><br><a href='https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/overview' target='_blank' style='color:blue;'>🔹 Microsoft Azure – Cloud Adoption Framework</a><br><a href='https://cloud.google.com/learn/what-is-cloud-computing' target='_blank' style='color:blue;'>🔹 Google Cloud – Cloud Basics</a><br><a href='https://www.ibm.com/cloud/learn/cloud-computing' target='_blank' style='color:blue;'>🔹 IBM – Cloud Computing Explained</a><br><a href='https://www.edx.org/learn/cloud-computing' target='_blank' style='color:blue;'>🔹 edX – Cloud Computing Courses</a><br><br>Unlock the full potential of the cloud and become a skilled practitioner in this fast-evolving digital landscape."
+
+    
+  }
+]
