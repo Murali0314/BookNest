@@ -12,7 +12,7 @@ function Course() {
   useEffect(() => {
     const getBooks = async () => {
       try {
-        const res = await axios.get("http://localhost:4001/api/books");
+        const res = await axios.get("https://booknestbackend-phe2.onrender.com/api/books");
         console.log(res.data);
         setBooks(res.data);
       } catch (error) {
