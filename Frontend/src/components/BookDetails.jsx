@@ -8,7 +8,7 @@ function BookDetails() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:4001/api/books/${id}`)
+    fetch(`https://booknestbackend-phe2.onrender.com/api/books/${id}`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch book");
         return res.json();
